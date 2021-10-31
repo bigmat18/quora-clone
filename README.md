@@ -1,2 +1,2 @@
 # QuoraClone
-Progetto sviluppato seguendo corso su Udemy Guida per Sviluppatori a Django REST Framework e Vue JS.
+Progetto sviluppato seguendo corso su Udemy Guida per Sviluppatori a Django REST Framework e Vue JS. Il lavoro consiste in un "clone di quora", quindi una web app dove è possibile registrarsi per poi fare domane e ricevere risposte. Tutto il lavoro è realizzato con python per il backend insieme a django e django-rest-framework. Il frontend è invece realizzato con l'utilizzo di Vue JS.
